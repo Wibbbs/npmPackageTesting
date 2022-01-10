@@ -1,6 +1,6 @@
 {
   "name": "@its-information-solutions/npmpackagetest",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Test repo for npm package on GitHub Packages",
   "main": "index.js",
   "scripts": {
